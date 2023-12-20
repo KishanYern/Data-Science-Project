@@ -4,3 +4,7 @@
 
 ## Overview
 Welcome to our collaborative Data Science Projects Repository. This repository serves as a collection of data science projects created in collaboration between Kishan Yerneni and Zahra Bukhari. Our projects demonstrate not only our capability to work on a team, but our diverse skillsets in data analysis.
+
+## Data Sources
+1. **[LaptopData.csv](https://github.com/KishanYern/Data-Science-Project/blob/main/datasets/laptopData.csv):**
+   - Dataset of laptop specs and prices from [Kaggle](https://www.kaggle.com/)
