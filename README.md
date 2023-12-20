@@ -7,4 +7,6 @@ Welcome to our collaborative Data Science Projects Repository. This repository s
 
 ## Data Sources
 1. **[LaptopData.csv](https://github.com/KishanYern/Data-Science-Project/blob/main/datasets/laptopData.csv) :**
-   - Dataset of laptop specs and prices from [Kaggle](https://www.kaggle.com/)
+   - Dataset of laptop specs and prices from [Kaggle][def]
+
+[def]: https://www.kaggle.com/
