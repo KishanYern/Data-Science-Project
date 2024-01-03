@@ -13,7 +13,7 @@ Welcome to our collaborative Data Science Projects Repository. This repository s
     - Used in
 2. **[insurance.csv](https://www.kaggle.com/datasets/mirichoi0218/insurance/data) :**
     - Dataset of insurance charges and respective details of patients from [Kaggle](https://www.kaggle.com/)
-    - Used in
+    - Used in [Medical_Expense_Prediction.ipynb](https://github.com/KishanYern/Data-Science-Project/blob/main/Medical_Expense_Prediction.ipynb)
 3. **[diabetes.csv](https://www.kaggle.com/datasets/akshaydattatraykhare/diabetes-dataset/data) :**
     - Dataset of patients medical records and diabetes results from [Kaggle](https://www.kaggle.com/)
     - Used in [Diabetes.ipynb](https://github.com/KishanYern/Data-Science-Project/blob/main/diabetes.ipynb)
