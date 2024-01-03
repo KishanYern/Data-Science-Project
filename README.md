@@ -10,7 +10,7 @@ Welcome to our collaborative Data Science Projects Repository. This repository s
 
 1. **[LaptopData.csv](https://github.com/KishanYern/Data-Science-Project/blob/main/datasets/laptopData.csv) :**
     - Dataset of laptop specs and prices from [Kaggle](https://www.kaggle.com/)
-    - Used in
+    - Used in [laptopData.ipynb](https://github.com/KishanYern/Data-Science-Project/blob/main/laptopData.ipynb)
 2. **[insurance.csv](https://www.kaggle.com/datasets/mirichoi0218/insurance/data) :**
     - Dataset of insurance charges and respective details of patients from [Kaggle](https://www.kaggle.com/)
     - Used in [Medical_Expense_Prediction.ipynb](https://github.com/KishanYern/Data-Science-Project/blob/main/Medical_Expense_Prediction.ipynb)
