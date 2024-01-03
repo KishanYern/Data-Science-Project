@@ -16,5 +16,5 @@ Welcome to our collaborative Data Science Projects Repository. This repository s
     - Used in
 3. **[diabetes.csv](https://www.kaggle.com/datasets/akshaydattatraykhare/diabetes-dataset/data) :**
     - Dataset of patients medical records and diabetes results from [Kaggle](https://www.kaggle.com/)
-    - Used in
+    - Used in [Diabetes.ipynb](https://github.com/KishanYern/Data-Science-Project/blob/main/diabetes.ipynb)
 
