@@ -18,3 +18,7 @@ Welcome to our collaborative Data Science Projects Repository. This repository s
     - Dataset of patients medical records and diabetes results from [Kaggle](https://www.kaggle.com/)
     - Used in [Diabetes.ipynb](https://github.com/KishanYern/Data-Science-Project/blob/main/diabetes.ipynb)
 
+## Projects
+1. Title and link
+   - brief description
+   - dataset used
