@@ -9,10 +9,8 @@ Welcome to our collaborative Data Science Projects Repository. This repository s
 ## Data Sources
 
 1. **[LaptopData.csv](https://github.com/KishanYern/Data-Science-Project/blob/main/datasets/laptopData.csv) :**
-
     - Dataset of laptop specs and prices from [Kaggle](https://www.kaggle.com/)
-
 2. **[insurance.csv](https://www.kaggle.com/datasets/mirichoi0218/insurance/data) :**
-    - Dataset of insurance charges and respective details of patients
+    - Dataset of insurance charges and respective details of patients from [Kaggle](https://www.kaggle.com/)
 3. **[diabetes.csv](https://www.kaggle.com/datasets/akshaydattatraykhare/diabetes-dataset/data) :**
-    - Dataset of patients medical records and diabetes results
+    - Dataset of patients medical records and diabetes results from [Kaggle](https://www.kaggle.com/)
